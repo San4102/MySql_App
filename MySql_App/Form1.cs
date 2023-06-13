@@ -68,7 +68,7 @@ namespace MySql_App
         }
 
 
-
+        //for moving 
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
 
